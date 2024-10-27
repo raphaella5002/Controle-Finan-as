@@ -1,18 +1,28 @@
-## Getting Started
+<h1>Controle de Finaças</h1>
+<p> Projeto desenvolvido na lingugaem de programação <b>Java</b> para pessoa que desejam tem maior controle sobre as quantias gastas em cada área da vida pessoal.</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h2>Funcionalidades</h2>
+  <ul>
+    <li> Informações básica do usuário;</li>
+    <li> Cálculo automático das porcentagens;</li>
+    <li> Interface para entrada de dados.</li>
+  </ul>
 
-## Folder Structure
+<h2>Como funciona?</h2>
+<p> No início do sistema o usuário irá informar o nome e o salário recebido.</p>
+<p> Apés a inserção desses dados irá sair discriminado em reais para o usuário as seguintes informações:</p>
 
-The workspace contains two folders by default, where:
+  <ul>
+    <li> Gastos essenciais - 50%; </li>
+    <li> Investimento - 20%; </li>
+    <li> Gastos para lazer - 15%; </li>
+    <li> Outros - 15%. </li>
+  </ul>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<br>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<p> 
+  O projeto de <b>Controle de Finanças</b> foi desenvolvido com o objetivo de ajudar as pessoas a gerenciar melhor suas finanças pessoais,
+  Como uma interface amigável e cálculos automáticos baseados em porcentagens pré-definidas, o sistemas oferece remendações claras e práticas
+  sobre a divisao do salário entre diversos gastos.
+</p>
